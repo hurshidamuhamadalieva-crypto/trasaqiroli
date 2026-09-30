@@ -1,0 +1,52 @@
+2026-09-30 10:18:02 | INFO     | __main__ | 🚀 AutoAd Bot ishga tushmoqda...
+2026-09-30 10:18:02 | INFO     | app.database | Database initialized successfully.
+2026-09-30 10:18:02 | INFO     | __main__ | ✅ Ma'lumotlar bazasi tayyor.
+2026-09-30 10:18:02 | INFO     | __main__ | ✅ Webhook o'rnatilmagan edi (hammasi joyida).
+2026-09-30 10:18:03 | INFO     | __main__ | Webhook tozalash natijasi: True (eski to'planib qolgan yangilanishlar tashlandi)
+2026-09-30 10:18:03 | INFO     | __main__ | ✅ Fon vazifalar ishga tushdi.
+2026-09-30 10:18:03 | INFO     | __main__ | ✅ Bot ishlamoqda. To'xtatish uchun Ctrl+C bosing.
+2026-09-30 10:18:03 | INFO     | aiogram.dispatcher | Start polling
+2026-09-30 10:18:03 | INFO     | aiogram.dispatcher | Run polling for bot @habarchi_robot_buvayda_bot id=8857506432 - 'Habarchi Robot'
+2026-09-30 10:20:26 | INFO     | aiogram.event | Update id=396309835 is not handled. Duration 15 ms by bot id=8857506432
+2026-09-30 10:20:29 | INFO     | aiogram.event | Update id=396309836 is handled. Duration 655 ms by bot id=8857506432
+2026-09-30 10:20:37 | INFO     | aiogram.event | Update id=396309837 is handled. Duration 515 ms by bot id=8857506432
+2026-09-30 10:20:39 | INFO     | aiogram.event | Update id=396309838 is handled. Duration 609 ms by bot id=8857506432
+2026-09-30 10:20:46 | INFO     | aiogram.event | Update id=396309839 is handled. Duration 687 ms by bot id=8857506432
+2026-09-30 10:20:51 | INFO     | aiogram.event | Update id=396309840 is handled. Duration 702 ms by bot id=8857506432
+2026-09-30 10:20:57 | INFO     | app.services.telethon_service | Kod so'rovi yuborildi: +998952871666 — proksisiz (to'g'ridan-to'g'ri)
+2026-09-30 10:20:57 | INFO     | aiogram.event | Update id=396309841 is handled. Duration 3187 ms by bot id=8857506432
+2026-09-30 10:23:00 | INFO     | aiogram.event | Update id=396309842 is handled. Duration 1687 ms by bot id=8857506432
+2026-09-30 10:26:01 | INFO     | app.services.telethon_service | 'Bot uchun' bo'sh jildi yaratildi: user 1, tasdiqlandi=True
+2026-09-30 10:26:20 | INFO     | aiogram.event | Update id=396309843 is handled. Duration 171 ms by bot id=8857506432
+2026-09-30 10:26:24 | INFO     | aiogram.event | Update id=396309844 is handled. Duration 438 ms by bot id=8857506432
+2026-09-30 10:26:26 | INFO     | aiogram.event | Update id=396309845 is handled. Duration 202 ms by bot id=8857506432
+2026-09-30 10:26:28 | INFO     | app.services.sender_service | Yuborish sikli boshlandi: foydalanuvchi 1
+2026-09-30 10:26:29 | INFO     | aiogram.event | Update id=396309846 is handled. Duration 531 ms by bot id=8857506432
+2026-09-30 10:26:29 | WARNING  | app.services.sender_service | [1] 'Bot uchun' jildida guruh topilmadi, 30s kutilmoqda
+2026-09-30 10:26:53 | INFO     | aiogram.event | Update id=396309847 is handled. Duration 625 ms by bot id=8857506432
+2026-09-30 10:26:54 | INFO     | app.services.sender_service | [1] Yuborish bekor qilindi
+2026-09-30 10:26:54 | INFO     | app.services.sender_service | [1] Yuborish sikli tugatildi
+2026-09-30 10:26:54 | INFO     | app.services.sender_service | Yuborish sikli boshlandi: foydalanuvchi 1
+2026-09-30 10:26:55 | INFO     | aiogram.event | Update id=396309848 is handled. Duration 452 ms by bot id=8857506432
+2026-09-30 10:26:55 | INFO     | app.services.sender_service | [1] 1 ta guruh/kanalga yuborilmoqda | interval=10daq | orasida 8s
+2026-09-30 10:26:55 | INFO     | app.services.sender_service | ✅ [1/1] 👥 sinov
+2026-09-30 10:26:55 | INFO     | app.services.sender_service | [1] Sikl tugadi → ✅1 ❌0 | Keyingisi 10 daqiqadan keyin
+2026-09-30 10:26:59 | INFO     | app.services.sender_service | [1] Yuborish bekor qilindi
+2026-09-30 10:26:59 | INFO     | app.services.sender_service | [1] Yuborish sikli tugatildi
+2026-09-30 10:26:59 | INFO     | aiogram.event | Update id=396309849 is handled. Duration 312 ms by bot id=8857506432
+2026-09-30 10:27:01 | INFO     | app.services.sender_service | Yuborish sikli boshlandi: foydalanuvchi 1
+2026-09-30 10:27:02 | INFO     | aiogram.event | Update id=396309850 is handled. Duration 266 ms by bot id=8857506432
+2026-09-30 10:27:02 | INFO     | app.services.sender_service | [1] 1 ta guruh/kanalga yuborilmoqda | interval=10daq | orasida 8s
+2026-09-30 10:27:02 | INFO     | app.services.sender_service | ✅ [1/1] 👥 sinov
+2026-09-30 10:27:02 | INFO     | app.services.sender_service | [1] Sikl tugadi → ✅1 ❌0 | Keyingisi 10 daqiqadan keyin
+2026-09-30 10:27:09 | INFO     | app.services.sender_service | [1] Yuborish bekor qilindi
+2026-09-30 10:27:09 | INFO     | app.services.sender_service | [1] Yuborish sikli tugatildi
+2026-09-30 10:27:09 | INFO     | aiogram.event | Update id=396309851 is handled. Duration 281 ms by bot id=8857506432
+2026-09-30 10:27:11 | INFO     | aiogram.event | Update id=396309852 is handled. Duration 172 ms by bot id=8857506432
+2026-09-30 10:27:16 | INFO     | aiogram.event | Update id=396309853 is handled. Duration 608 ms by bot id=8857506432
+2026-09-30 10:27:22 | INFO     | aiogram.event | Update id=396309854 is handled. Duration 219 ms by bot id=8857506432
+2026-09-30 10:27:28 | INFO     | aiogram.event | Update id=396309855 is handled. Duration 250 ms by bot id=8857506432
+2026-09-30 10:27:47 | INFO     | aiogram.dispatcher | Polling stopped
+2026-09-30 10:27:47 | INFO     | aiogram.dispatcher | Polling stopped for bot @habarchi_robot_buvayda_bot id=8857506432 - 'Habarchi Robot'
+2026-09-30 10:27:48 | INFO     | __main__ | 🛑 Bot to'xtatildi.
+2026-09-30 10:27:48 | INFO     | __main__ | Foydalanuvchi tomonidan to'xtatildi.
