@@ -1,2 +1,27 @@
+# Maxfiy sozlamalar
 .env
 .env.*
+!.env.example
+
+# Baza, sessiyalar, rasm shablonlari, loglar
+data/
+logs/
+*.db
+*.db-journal
+*.session
+*.session-journal
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
